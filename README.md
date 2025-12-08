@@ -18,3 +18,5 @@ Este repositório contém o site de portfólio desenvolvido para a avaliação d
 
  📌 Objetivo
 Praticar desenvolvimento web e construir meu portfólio profissional.
+
+Atualização para ativar GitHub Pages
